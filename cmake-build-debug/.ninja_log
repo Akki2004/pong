@@ -1,0 +1,27 @@
+# ninja log v6
+6	585	7531567699698398	CMakeFiles/sfml_project2.dir/main.cpp.obj	440f399f1fc73d83
+19	490	7531516761589568	CMakeFiles/sfml_project2.dir/Counter.cpp.obj	78fde0a34a8c3bda
+14	552	7531567699778413	CMakeFiles/sfml_project2.dir/Ball.cpp.obj	11968282a00ad8b2
+27	492	7513488843735848	CMakeFiles/sfml_project2.dir/collision.cpp.obj	c581fc0133a9a51b
+586	1257	7531567705487840	sfml_project2.exe	e04ddc8f03fa3778
+31	163	7531516761707577	CMakeFiles/sfml_project2.dir/CounterView.cpp.obj	6078605e906dfcbd
+3	457	7531510395634744	build.ninja	61f66c32f37b1946
+28	570	7495318518850811	CMakeFiles/sfml_project2.dir/Paddle.cpp.obj	89bb58721ea66080
+27	570	7531541280506823	CMakeFiles/sfml_project2.dir/PongView.cpp.obj	3606f4e2f10f3b0b
+21	538	7531567699848407	CMakeFiles/sfml_project2.dir/PongController.cpp.obj	bed2a98eeb797cc0
+25	457	7531569937549193	CMakeFiles/sfml_project2.dir/PongController.cpp.obj	bed2a98eeb797cc0
+458	1111	7531569941874609	sfml_project2.exe	e04ddc8f03fa3778
+39	582	7531572367891683	CMakeFiles/sfml_project2.dir/PongController.cpp.obj	bed2a98eeb797cc0
+21	641	7531572367711798	CMakeFiles/sfml_project2.dir/main.cpp.obj	440f399f1fc73d83
+29	647	7531572367781794	CMakeFiles/sfml_project2.dir/Ball.cpp.obj	11968282a00ad8b2
+647	1352	7531572373972293	sfml_project2.exe	e04ddc8f03fa3778
+19	431	7531573284862107	CMakeFiles/sfml_project2.dir/PongController.cpp.obj	bed2a98eeb797cc0
+431	1079	7531573288990572	sfml_project2.exe	e04ddc8f03fa3778
+12	413	7531575951709035	CMakeFiles/sfml_project2.dir/PongController.cpp.obj	bed2a98eeb797cc0
+414	1086	7531575955724789	sfml_project2.exe	e04ddc8f03fa3778
+22	495	7531576207068301	CMakeFiles/sfml_project2.dir/PongController.cpp.obj	bed2a98eeb797cc0
+496	1154	7531576211810548	sfml_project2.exe	e04ddc8f03fa3778
+20	511	7531576428756215	CMakeFiles/sfml_project2.dir/Ball.cpp.obj	11968282a00ad8b2
+511	1211	7531576433674987	sfml_project2.exe	e04ddc8f03fa3778
+10	1985	7531740817691646	CMakeFiles/sfml_project2.dir/main.cpp.obj	440f399f1fc73d83
+1986	3446	7531740837445885	sfml_project2.exe	e04ddc8f03fa3778
